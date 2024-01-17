@@ -1,0 +1,30 @@
+{
+  "manifest_version": 3,
+  "name": "Typing Numbers",
+  "description": "An extension that counts the numbers of words you have typed etc.",
+  "version": "1.0",
+  
+  "action": {
+    "default_popup": "popup/main.html",
+    "default_icon": {
+      "16": "logo.png",
+      "32": "logo.png",
+      "48": "logo.png",
+      "128": "logo.png"
+    }
+  },
+  "background": {
+    "service_worker": "scripts/serviceworker.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["scripts/content.js"]
+    }
+  ],
+    "permissions": [
+        "storage",
+        "alarms"
+    ]
+
+}
