@@ -3,14 +3,22 @@
   <script src="main.js" defer></script>
   <body>
     <h1>Typing Numbers</h1>
-    <p>You have typed <span id="nbChar">0</span> characters</p>
-    <p>You have typed <span id="nbWord">0</span> words</p>
-    <p>Your most typed character is "<span id="mostTyped"></span>"</p>
-    <button id="reset">Reset</button>
+    <p>
+      <span id="typedChar1"></span>
+      <span id="nbChar">0</span>
+      <span id="typedChar2"></span>
+    </p>
+    <p>
+      <span id="typedWord1"></span>
+      <span id="nbWord">0</span>
+      <span id="typedWord2"></span>
+    </p>
+    <p><span id="mostTypedChar"></span> : "<span id="mostTyped"></span>"</p>
+    <button id="reset"><span id="resetBtn"></span></button>
     <table>
       <tr>
-        <th>Letter</th>
-        <th>Count</th>
+        <th><span id="letter"></span></th>
+        <th><span id="count"></span></th>
       </tr>
       <tr>
         <td>A</td>

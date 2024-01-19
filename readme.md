@@ -9,25 +9,26 @@ The Typing Number Chrome Extension is a simple tool that counts the number of ch
 ## Features
 
 - Real-time character count: The extension counts the number of characters you type in real-time, giving you instant feedback.
+- Multi language support: The extension supports multiple languages.
 - _More features comming soon..._
 
 ## Technical Details
 
-<u>Version</u>: 1.0.0
+<u>Version</u>: 1.1.0
 
 <u>Comming Features</u>:
 
-- [ ] Multi language support
-- [ ] Average typing speed
-- [ ] Number of lines typed
-- [ ] Number of paragraphs typed
-- [ ] Number of pages typed
-- [ ] Make a better interface
-- [ ] Add a settings page
-- [ ] Add a dark mode
-- [ ] Make the theme follow chrome theme (don't know if it's possible)
-- [ ] Graph stats (number of characters typed per day, week, month, year)
-- [ ] Extension website
+- [✔️] Multi language support
+- [❌] Average typing speed
+- [❌] Number of lines typed
+- [❌] Number of paragraphs typed
+- [❌] Number of pages typed
+- [❌] Make a better interface
+- [❌] Add a settings page
+- [❌] Add a dark mode
+- [❌] Make the theme follow chrome theme (don't know if it's possible)
+- [❌] Graph stats (number of characters typed per day, week, month, year)
+- [❌] Extension website
 
 ## Installation
 

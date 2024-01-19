@@ -1,0 +1,58 @@
+{
+    "fr": {
+        "typedChar" :[
+            "Vous avez écrit",
+            "caractères"
+        ],
+        "typedWord" :[
+            "Vous avez écrit",
+            "mots"
+        ],
+        "mostTypedChar" : "Le caractère le plus utilisé est",
+        "resetBtn" : "Réinitialiser",
+        "letter" : "Lettre",
+        "count" : "Nombre"
+    },
+    "en": {
+        "typedChar" :[
+            "You have typed",
+            "characters"
+        ],
+        "typedWord" :[
+            "You have typed",
+            "words"
+        ],
+        "mostTypedChar" : "The most typed character is",
+        "resetBtn" : "Reset",
+        "letter" : "Letter",
+        "count" : "Count"
+    },
+    "es": {
+        "typedChar" :[
+            "Has escrito",
+            "caracteres"
+        ],
+        "typedWord" :[
+            "Has escrito",
+            "palabras"
+        ],
+        "mostTypedChar" : "El caracter más usado es",
+        "resetBtn" : "Reiniciar",
+        "letter" : "Letra",
+        "count" : "Cantidad"
+    },
+    "de": {
+        "typedChar" :[
+            "Sie haben",
+            "Zeichen eingegeben"
+        ],
+        "typedWord" :[
+            "Sie haben",
+            "Wörter eingegeben"
+        ],
+        "mostTypedChar" : "Das am häufigsten eingegebene Zeichen ist",
+        "resetBtn" : "Zurücksetzen",
+        "letter" : "Buchstabe",
+        "count" : "Anzahl"
+    }
+}
