@@ -4,7 +4,7 @@
 
 ## Description
 
-The Word Counter Chrome Extension is a simple tool that counts the number of characters you type during your navigation. You can have usefull information about your typing like your most typed character or the number of words you typed.
+The Typing Number Chrome Extension is a simple tool that counts the number of characters you type during your navigation. You can have usefull information about your typing like your most typed character or the number of words you typed.
 
 ## Features
 
@@ -35,7 +35,7 @@ The Word Counter Chrome Extension is a simple tool that counts the number of cha
 2. Open Google Chrome and go to `chrome://extensions`.
 3. Enable the "Developer mode" toggle switch.
 4. Click on "Load unpacked" and select the folder containing the extension's source code.
-5. The Word Counter Chrome Extension will be installed and ready to use.
+5. The Typing Number Chrome Extension will be installed and ready to use.
 
 ## Usage
 
